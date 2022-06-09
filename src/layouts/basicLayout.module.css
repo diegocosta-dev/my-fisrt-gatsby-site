@@ -8,6 +8,11 @@
   color: rebeccapurple;
 }
 
+.site-title {
+  color: rebeccapurple;
+  font-weight: bold;
+}
+
 .nav-links {
   display: flex;
   list-style: none;
